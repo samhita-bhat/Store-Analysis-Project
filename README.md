@@ -20,7 +20,7 @@ Source: Kaggle
 9. Which Channel is contributing maximum to the sales?
 10. What is the Average Order Value (AOV)?
 
-## Key insights and onservations
+## Key insights and observations
 - The highest sales revenue (Sum of Amount) and the number of orders (Count of Orders) occurred in March. This indicates a seasonal spike, potentially due to promotions, events, or holidays during this period.
 - Women customers are more likely to buy products compared to men (~65%). 
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers. 
