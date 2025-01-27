@@ -21,7 +21,7 @@ Source: Kaggle
 10. What is the Average Order Value (AOV)?
 
 ## Key insights and onservations
-- •	The highest sales revenue (Sum of Amount) and the number of orders (Count of Orders) occurred in March. This indicates a seasonal spike, potentially due to promotions, events, or holidays during this period.
+- The highest sales revenue (Sum of Amount) and the number of orders (Count of Orders) occurred in March. This indicates a seasonal spike, potentially due to promotions, events, or holidays during this period.
 - Women customers are more likely to buy products compared to men (~65%). 
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers. 
 - The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
