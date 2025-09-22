@@ -2,11 +2,23 @@
 An Excel-based analysis of store sales data using pivot tables and charts.
 
 ## Project Objective
-The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023.
+The Vrinda Store wanted to create an **Annual Sales Report for 2022** to better understand customer behavior and identify opportunities for growth in 2023.
+
+## 🛠 Tools Used
+- Microsoft Excel  
+  - Pivot Tables  
+  - Charts (Bar, Pie, Line)  
+  - Slicers & Filters  
+  - Conditional Formatting 
 
 ## Dataset Information
-Fields: Index, Order ID, Customer ID, Gender, Age, Age Group, Date, Month, Status, Channel, SKU, Category, Size, Quantity, Currency, Amount, Ship-city, Ship-state, Ship-postal-code, B2B. 
-Source: Kaggle
+- **Source**: Kaggle  
+- **Fields**:  
+  - Customer & Order Info: `Order ID`, `Customer ID`  
+  - Demographics: `Gender`, `Age`, `Age Group`  
+  - Order Details: `Date`, `Month`, `Status`, `Channel`, `Category`, `Quantity`, `Amount`  
+  - Geography: `Ship-City`, `Ship-State`, `Ship-Postal-Code`  
+  - Business Info: `B2B`, `Currency`
 
 ## Questions answered with pivot tables
 1. What was the total sales revenue for the year 2022?
@@ -21,11 +33,12 @@ Source: Kaggle
 10. What is the Average Order Value (AOV)?
 
 ## Key insights and observations
-- The highest sales revenue (Sum of Amount) and the number of orders (Count of Orders) occurred in March. This indicates a seasonal spike, potentially due to promotions, events, or holidays during this period.
-- Women customers are more likely to buy products compared to men (~65%). 
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers. 
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+- The highest sales revenue and the number of orders occurred in **March**. This indicates a seasonal spike, potentially due to promotions, events, or holidays during this period.
+- **Women (64%)** shop more than men (36%) and contribute higher revenue. 
+- **Maharashtra, Karnataka, and Uttar Pradesh** contribute the highest revenue.
+- The **Adult age group** (35.59%) is the main customer segment, followed by Teenagers (21.13%). 
+- **Amazon (33%)**, **Myntra (23%)**, and **Flipkart (22%)** are the top-performing sales channels.
+- Majority of orders (**92%**) were successfully delivered, with minimal cancellations/returns.
 
 ## Conclusion
 To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
