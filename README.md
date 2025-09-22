@@ -4,7 +4,7 @@ An Excel-based analysis of store sales data using pivot tables and charts.
 ## Project Objective
 The Vrinda Store wanted to create an **Annual Sales Report for 2022** to better understand customer behavior and identify opportunities for growth in 2023.
 
-## 🛠 Tools Used
+## Tools Used
 - Microsoft Excel  
   - Pivot Tables  
   - Charts (Bar, Pie, Line)  
